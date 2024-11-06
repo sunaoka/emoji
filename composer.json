@@ -24,7 +24,7 @@
         "ext-json": "*",
         "phpunit/phpunit": "^9.4",
         "symfony/console": "^4.2",
-        "twig/twig": "^2.7",
+        "twig/twig": "^3.14",
         "guzzlehttp/guzzle": "^7.0"
     },
     "autoload": {
